@@ -9,6 +9,7 @@ The ten repositories from [Muhammad Ayan's X post](https://x.com/socialwithaayan
 - [Frameworks and renderers](#frameworks-and-renderers)
 - [Agent skills](#agent-skills)
 - [Prompt and reference collections](#prompt-and-reference-collections)
+- [Prompt library](#prompt-library)
 - [Video creation tools and starters](#video-creation-tools-and-starters)
 - [Source projects and examples](#source-projects-and-examples)
 - [Contributing](#contributing)
@@ -35,6 +36,10 @@ The ten repositories from [Muhammad Ayan's X post](https://x.com/socialwithaayan
 - [Awesome Opus 5.5 Videos](https://github.com/yihui-dev/awesome-opus5-5-videos) — A growing index of creator videos with their prompts, including motion graphics and explainers. Browse the original work and prompts before adapting a technique.
 - [Awesome Opus 5.5 Videos: source-linked guide](https://github.com/athemeroy/awesome-opus-5-5-videos) — A separate catalog of 1,000+ videos describing their visual styles and how their frames were made.
 - [Lemo-Opuscar](https://github.com/lemomo-ai/lemo-opuscar) — 43 film styles, each with a reusable style prompt and a code-made short film.
+
+## Prompt library
+
+Start with the [style prompt library](prompts/README.md) for original, fill-in briefs covering showreels, kinetic typography, UI motion, product launches, explainers, data stories, collage, hand-drawn animation, music videos, and 3D scenes. Each prompt links to a creator example for visual reference.
 
 ## Video creation tools and starters
 
