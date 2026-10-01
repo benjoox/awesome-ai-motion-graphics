@@ -31,6 +31,7 @@ The ten repositories from [Muhammad Ayan's X post](https://x.com/socialwithaayan
 
 ## Prompt and reference collections
 
+- [ClaudeVideo](https://claudevideo.org/) — Searchable index of Claude Opus 5.5 videos with links to original creators and available prompts; its [guides](https://claudevideo.org/guides) and [skills directory](https://claudevideo.org/skills) help trace techniques back to useful source projects.
 - [Awesome Opus 5.5 Videos](https://github.com/yihui-dev/awesome-opus5-5-videos) — A growing index of creator videos with their prompts, including motion graphics and explainers. Browse the original work and prompts before adapting a technique.
 - [Awesome Opus 5.5 Videos: source-linked guide](https://github.com/athemeroy/awesome-opus-5-5-videos) — A separate catalog of 1,000+ videos describing their visual styles and how their frames were made.
 - [Lemo-Opuscar](https://github.com/lemomo-ai/lemo-opuscar) — 43 film styles, each with a reusable style prompt and a code-made short film.
