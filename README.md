@@ -34,6 +34,7 @@ The initial resources from [Muhammad Ayan's X post](https://x.com/socialwithaaya
 - [Bang Motion](https://github.com/bangtutorial/bang-motion) — Skill and starters for browser-based promos, openers, kinetic type, and explainers.
 - [Claude Animation](https://github.com/buildwithhanif/claude-animation-skill) — Node Canvas skill with drawn rigs, textures, synthesized sound, and frame verification.
 - [AI Motion Graphics](https://github.com/docusphere/claude-skill-motion-graphics) — Beat-sheet workflow covering generated assets, audio, and Remotion assembly.
+- [Persian Motion Director](https://github.com/atmirrr/persian-motion-director) — Claude skill for Persian (Farsi) motion graphics, with right-to-left typography guidance, HarfBuzz glyph-shaping tools, copy linting, and browser and Remotion examples.
 
 ## Prompt and reference collections
 
