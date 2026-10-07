@@ -1,0 +1,21 @@
+name: Correct an entry
+description: Report a broken link, inaccurate description, duplicate, or attribution problem.
+title: "Correction: "
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Affected entry
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem and supporting source
+      description: Explain the correction. Do not include sensitive information.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested replacement
