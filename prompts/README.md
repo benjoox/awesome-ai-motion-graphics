@@ -16,6 +16,17 @@ Original, reusable prompts for code-rendered motion graphics. These are **new te
 | 3D scene | A cinematic reveal of a subject in 3D | [3D scene](three-d-scene.md) |
 | Depth hierarchy | Reveal increasing detail through optical depth and focus | [Depth hierarchy](depth-hierarchy.md) |
 
+## Production prompts
+
+| Workflow | Use it for | Prompt |
+| --- | --- | --- |
+| Reference analysis | Style guide and timed shot list | [Reference analysis](reference-analysis.md) |
+| Director's brief | Story, continuity, stages, and deliverables | [Director's brief](director-brief.md) |
+| Render review | Frames, transitions, and playback | [Render review](render-review.md) |
+| Multi-format delivery | Several formats from one timed sequence | [Multi-format delivery](multi-format-delivery.md) |
+
+See the [production workflow guide](../workflows/README.md).
+
 ## How to use
 
 1. Open a style file and replace every `[placeholder]` with your subject, copy, assets, and constraints.
@@ -24,3 +35,7 @@ Original, reusable prompts for code-rendered motion graphics. These are **new te
 4. Use a renderer such as [Remotion](https://github.com/remotion-dev/remotion) or [HyperFrames](https://github.com/heygen-com/hyperframes) when you need repeatable frame timing and an exported video.
 
 For more creator examples, browse [ClaudeVideo's video index](https://claudevideo.org/videos) and [prompting guide](https://claudevideo.org/guides/claude-opus-5-5-video-prompts). Credit creators when you build from their published ideas or prompts. The templates in this directory do not grant rights to third-party media.
+
+## License
+
+These original templates are covered by the repository's [MIT License](../LICENSE). Linked creators' work remains subject to their own rights.

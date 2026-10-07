@@ -7,5 +7,7 @@ Create a [duration]-second motion graphics video for the supplied track [audio p
 
 Analyze the actual audio for tempo, downbeats, sections, and strong transients. Show me a beat map and shot list before coding. Give each musical section a distinct visual development of the same motif rather than a new random effect. Time cuts and major transformations to measured cues; reserve quieter motion for sparse passages. If lyrics or captions are supplied, preserve their exact text and time them to the audio.
 
+Write a sound-effect cue list with time, visible event, and level. Confirm estimated downbeats before timing bar-level changes. Review playback with sound; stills alone cannot establish synchronization.
+
 Render at [size] and [fps] using [renderer]. Derive every frame from time and audio analysis, not live microphone input. Produce a low-resolution preview to check synchronization, then export the final video with the supplied track.
 ```

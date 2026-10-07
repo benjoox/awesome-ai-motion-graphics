@@ -1,0 +1,29 @@
+{
+  "name": "awesome-ai-motion-graphics",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@10.7.0",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "lint": "node --experimental-strip-types scripts/lint-markdown.ts",
+    "typecheck": "tsc --noEmit",
+    "check:links": "node --experimental-strip-types scripts/check-local-links.ts",
+    "test": "node --experimental-strip-types --test scripts/check-local-links.test.ts",
+    "check": "pnpm lint && pnpm typecheck && pnpm check:links && pnpm test && git diff --check",
+    "audit": "pnpm audit --audit-level high"
+  },
+  "devDependencies": {
+    "@types/markdown-it": "14.2.0",
+    "@types/node": "22.17.0",
+    "markdown-it": "15.0.2",
+    "markdownlint": "0.41.1",
+    "typescript": "7.0.2"
+  },
+  "pnpm": {
+    "overrides": {
+      "micromark-extension-math>katex": "0.18.2"
+    }
+  }
+}

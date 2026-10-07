@@ -1,0 +1,37 @@
+name: Suggest a resource
+description: Propose a tool, skill, source project, workflow, or visual reference.
+title: "Resource: "
+body:
+  - type: input
+    id: source
+    attributes:
+      label: Original source URL
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Framework or renderer
+        - Agent skill
+        - Prompt or reference collection
+        - Production workflow
+        - Source project
+        - Visual reference
+    validations:
+      required: true
+  - type: textarea
+    id: value
+    attributes:
+      label: What can a reader learn or build?
+      description: Explain what source, prompt, or documentation is available.
+    validations:
+      required: true
+  - type: textarea
+    id: rights
+    attributes:
+      label: Attribution and reuse
+      description: Name the creator, published license if available, and your connection to the resource.
+    validations:
+      required: true
