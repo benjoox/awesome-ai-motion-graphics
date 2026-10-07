@@ -13,3 +13,7 @@ If private reporting is unavailable, use [GitHub Support](https://support.github
 Use placeholder credentials in prompts. Keep real keys in ignored environment files and send them only to the intended provider. Review linked skills before running them. Use the dependency lockfile and pinned workflow actions.
 
 CI runs with read-only repository permissions and requires no secrets. Dependency updates arrive as reviewable PRs. Inclusion in this list is not a security audit or endorsement.
+
+## Tooling dependencies
+
+CI audits dependencies for high-severity vulnerabilities. The pinned KaTeX override applies the patch for [GHSA-238p-pmpm-9mq7](https://github.com/advisories/GHSA-238p-pmpm-9mq7) until the upstream math extension selects a patched version. Review the override when updating the extension.

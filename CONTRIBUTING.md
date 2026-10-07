@@ -23,11 +23,12 @@ Index every new document. Use relative repository links and descriptive titles. 
 Use Node.js 22 or later and pnpm 10.7.0.
 
 ~~~sh
-pnpm install --frozen-lockfile
+pnpm install --frozen-lockfile --ignore-scripts
 pnpm check
+pnpm audit
 ~~~
 
-Checks cover Markdown, tooling types, local links and heading anchors, checker tests, and whitespace. External links require manual review because hosts such as X may block automated requests. Aesthetic quality and video playback are not automated.
+Checks cover Markdown, tooling types, local links and heading anchors, checker tests, and whitespace. CI also checks dependencies for high-severity vulnerabilities. External links require manual review because hosts such as X may block automated requests. Aesthetic quality and video playback are not automated.
 
 ## Pull requests
 

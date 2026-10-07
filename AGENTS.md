@@ -20,6 +20,6 @@ This public repository contains a resource list and original prompts for AI-assi
 
 Use focused branches and Conventional Commits, such as docs(prompts): add reference analysis or chore(repo): add documentation checks. Never bypass checks.
 
-Run pnpm install --frozen-lockfile and pnpm check before committing. Open new external links manually and report validation in the PR. CI checks Markdown, tooling types, local files and anchors, checker tests, and whitespace; it does not judge audiovisual quality or external websites.
+Run pnpm install --frozen-lockfile --ignore-scripts, pnpm check, and pnpm audit before committing. Open new external links manually and report validation in the PR. CI checks Markdown, tooling types, local files and anchors, checker tests, and whitespace; it does not judge audiovisual quality or external websites.
 
 Pin dependencies and actions. Keep CI permissions at contents: read. Never execute contributor code through pull_request_target. Do not commit generated videos, downloaded media, or secrets. Ask before changing the license, repository scope, publishing releases, or merging a PR.

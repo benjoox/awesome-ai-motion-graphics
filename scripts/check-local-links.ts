@@ -6,7 +6,7 @@ import MarkdownIt from "markdown-it";
 const parser = new MarkdownIt();
 const ignoredDirectories = new Set([".git", "node_modules"]);
 
-function markdownFiles(directory: string): string[] {
+export function markdownFiles(directory: string): string[] {
   return readdirSync(directory, { withFileTypes: true }).flatMap((entry) => {
     const path = resolve(directory, entry.name);
     if (entry.isDirectory()) return ignoredDirectories.has(entry.name) ? [] : markdownFiles(path);

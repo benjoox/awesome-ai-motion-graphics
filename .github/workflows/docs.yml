@@ -29,3 +29,4 @@ jobs:
           cache: pnpm
       - run: pnpm install --frozen-lockfile --ignore-scripts
       - run: pnpm check
+      - run: pnpm audit
