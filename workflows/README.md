@@ -26,6 +26,8 @@ Consecutive frames and playback are necessary for motion review. A contact sheet
 
 Use an existing renderer when it fits the brief. Canvas or SVG can suit focused studies; Remotion and HyperFrames offer structured authoring and rendering. Neither guarantees art direction or reusable components.
 
+When exploring a scene, render a short range, compare distinct visual and sound treatments, and keep notes on what works and what does not. Try changing the audio timing as well as the image, then review them together in playback. [Ashton Chew's fframes example](https://x.com/iamashtonchew/status/2108713173461160133) illustrates this iteration loop; his speed figures are specific to that production, so measure candidate renderers on your own scene.
+
 A seek function does not prove determinism. Verify the same frame requested in a different order. For loops, compare near-end and start positions, velocities, content, and audio; wrapping time does not establish continuity.
 
 ## Packaging a reusable workflow
