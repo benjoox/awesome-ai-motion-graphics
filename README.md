@@ -10,6 +10,7 @@ The initial resources from [Muhammad Ayan's X post](https://x.com/socialwithaaya
 - [Agent skills](#agent-skills)
 - [Prompt and reference collections](#prompt-and-reference-collections)
 - [Prompt library](#prompt-library)
+- [Published prompt examples](#published-prompt-examples)
 - [Production workflows](#production-workflows)
 - [Reference libraries](#reference-libraries)
 - [Motion production examples](#motion-production-examples)
@@ -46,6 +47,10 @@ The initial resources from [Muhammad Ayan's X post](https://x.com/socialwithaaya
 ## Prompt library
 
 Start with the [style prompt library](prompts/README.md) for original, fill-in briefs covering showreels, kinetic typography, UI motion, product launches, explainers, data stories, collage, hand-drawn animation, music videos, and 3D scenes. Each prompt links to a creator example for visual reference.
+
+## Published prompt examples
+
+The [published prompt examples](published-prompts/README.md) point to creators' exact motion prompts and follow-up instructions. Start with [Florence's Opus 5.5 Motion Lab](published-prompts/florence-opus-5-5-motion-lab.md), which links four visual briefs, three sound briefs, and their documented revisions. These source prompts belong to their creators; the [prompt library](prompts/README.md) contains this repository's original templates.
 
 ## Production workflows
 
