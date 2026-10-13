@@ -72,6 +72,7 @@ The [course reference inventory](showcase/movez-course-references.md) links to e
 ### Motion graphics and film
 
 - [PDoomVideo](https://github.com/JohnHeibel/PDoomVideo) — Source, storyboard, animation guide, and render script for a code-rendered music video built with Claude Opus 5.5.
+- [LGTM (Looks Good to Me)](https://www.youtube.com/watch?v=3TNpOD6bov8): Visual reference for type timed to each sung word, in a music video directed by Degenerative Pixels and animated by Claude Opus 5.5 in TypeScript and three.js, with no source linked.
 - [Battle of Austerlitz Film](https://github.com/WinterArc21/Battle-of-Austerlitz-Film) — Five-minute WebGL history film with terrain data, procedural animation, offline narration, and synthesized sound.
 
 ### Interactive animation and games
