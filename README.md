@@ -60,6 +60,8 @@ Start with the [style prompt library](prompts/README.md) for original, fill-in b
 
 Start with [six production examples](showcase/README.md): twoclipping's UI morph, MakerMap, the Steve Jobs biography, Small print, Pip, and a watercolor short. Each credits its creator and explains a distinct production lesson.
 
+- [Surya's code-made visual studies](https://x.com/kickingkeys/status/2110037855452180633) — A thread of visuals made with code in Google AI Studio; the creator links further examples and their code in the thread.
+
 The [course reference inventory](showcase/movez-course-references.md) links to every embedded post and the four additional videos mentioned in Movez's article.
 
 ## Video creation tools and starters
@@ -71,6 +73,7 @@ The [course reference inventory](showcase/movez-course-references.md) links to e
 
 ### Motion graphics and film
 
+- [Argon Paintings](https://claude.ai/artifact/9znB6dfumu3bWHPWiwwNx2) — Gallery of 534 code-made paintings, including moving pieces, with a preview and copyable `sketch.js` source for each work.
 - [PDoomVideo](https://github.com/JohnHeibel/PDoomVideo) — Source, storyboard, animation guide, and render script for a code-rendered music video built with Claude Opus 5.5.
 - [Battle of Austerlitz Film](https://github.com/WinterArc21/Battle-of-Austerlitz-Film) — Five-minute WebGL history film with terrain data, procedural animation, offline narration, and synthesized sound.
 
