@@ -22,6 +22,7 @@ The initial resources from [Muhammad Ayan's X post](https://x.com/socialwithaaya
 ## Frameworks and renderers
 
 - [Remotion](https://github.com/remotion-dev/remotion) — Create and render videos with React and TypeScript.
+- [fframes](https://github.com/dmtrKovalenko/fframes) — Build SVG scenes in Rust, render frames on the GPU, and encode video with ffmpeg. [Ashton Chew's post](https://x.com/iamashtonchew/status/2108713173461160133) describes using faster drafts to iterate on scene and sound design; its render-time comparison is his own project result.
 - [HyperFrames](https://github.com/heygen-com/hyperframes) — Render deterministic video from HTML, CSS, media, and seekable animations; designed for agent workflows.
 - [Motion Canvas](https://github.com/motion-canvas/motion-canvas) — TypeScript framework for programmatic 2D animation and video.
 - [Manim Community](https://github.com/ManimCommunity/manim) — Python framework for mathematical and explanatory animation.
@@ -36,6 +37,8 @@ The initial resources from [Muhammad Ayan's X post](https://x.com/socialwithaaya
 - [Claude Animation](https://github.com/buildwithhanif/claude-animation-skill) — Node Canvas skill with drawn rigs, textures, synthesized sound, and frame verification.
 - [AI Motion Graphics](https://github.com/docusphere/claude-skill-motion-graphics) — Beat-sheet workflow covering generated assets, audio, and Remotion assembly.
 - [Persian Motion Director](https://github.com/atmirrr/persian-motion-director) — Claude skill for Persian (Farsi) motion graphics, with right-to-left typography guidance, HarfBuzz glyph-shaping tools, copy linting, and browser and Remotion examples.
+- [fframes video skill](https://github.com/dmtrKovalenko/fframes/tree/main/skills/fframes-video) — Agent instructions for planning, rendering, and checking fframes videos, including frames, contact sheets, and audio.
+- [Anatomy](https://github.com/wheresryan22/anatomy) — Claude Code skill for explanatory SVG figures with optional interaction and WebGL. [Meng To's post](https://x.com/MengTo/status/2109182449179836579) shows it applied to an animated visual explainer.
 
 ## Prompt and reference collections
 
