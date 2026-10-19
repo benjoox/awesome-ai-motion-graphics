@@ -11,6 +11,7 @@ The initial resources from [Muhammad Ayan's X post](https://x.com/socialwithaaya
 - [Prompt and reference collections](#prompt-and-reference-collections)
 - [Prompt library](#prompt-library)
 - [Production workflows](#production-workflows)
+- [Audio and sound design tools](#audio-and-sound-design-tools)
 - [Reference libraries](#reference-libraries)
 - [Motion production examples](#motion-production-examples)
 - [Video creation tools and starters](#video-creation-tools-and-starters)
@@ -51,6 +52,10 @@ Start with the [style prompt library](prompts/README.md) for original, fill-in b
 
 - [Movez's motion design studio course](https://x.com/0xMovez/status/2104216919033192746) — References, direction, rendering, springs, sound, critique, and reusable instructions.
 - [Production workflow guide](workflows/README.md) — Connect reference analysis, a director's brief, rendered review, and multi-format delivery.
+
+## Audio and sound design tools
+
+- [Earshot](https://github.com/Leonxlnx/earshot) — Local CLI, Python API, and MCP server for coding agents to analyze film audio, check sound-to-picture timing, and synthesize sound effects with code.
 
 ## Reference libraries
 
