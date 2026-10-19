@@ -23,6 +23,7 @@ Original, reusable prompts for code-rendered motion graphics. These are **new te
 | Reference analysis | Style guide and timed shot list | [Reference analysis](reference-analysis.md) |
 | Director's brief | Story, continuity, stages, and deliverables | [Director's brief](director-brief.md) |
 | Render review | Frames, transitions, and playback | [Render review](render-review.md) |
+| Recorded short-form edit | Select takes, reframe footage, and time captions | [Short-form edit](short-form-edit.md) |
 | Multi-format delivery | Several formats from one timed sequence | [Multi-format delivery](multi-format-delivery.md) |
 
 See the [production workflow guide](../workflows/README.md).

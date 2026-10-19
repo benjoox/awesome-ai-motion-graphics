@@ -15,6 +15,10 @@ A code-rendered film needs a clear brief, assets, a deterministic renderer, coor
 
 Consecutive frames and playback are necessary for motion review. A contact sheet can reveal layout problems but cannot prove smooth motion or sound alignment. Self-review is feedback, not independent approval.
 
+## Editing recorded footage
+
+For camera footage, use [Recorded footage to a short-form edit](recorded-footage.md) and its [prompt template](../prompts/short-form-edit.md). The workflow covers take selection, word-timed cuts, reframing, graphics, captions, and review of the speaker's delivery.
+
 ## Further reading
 
 - [Movez's motion design studio course](https://x.com/0xMovez/status/2104216919033192746) — References, direction, rendering, springs, sound, critique, and reusable instructions.
