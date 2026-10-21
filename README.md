@@ -48,6 +48,7 @@ The initial resources from [Muhammad Ayan's X post](https://x.com/socialwithaaya
 - [Awesome Claude 5.5 Videos: source-linked guide](https://github.com/athemeroy/awesome-claude-5-5-videos) — A separate source-linked video catalog describing their visual styles and how their frames were made.
 - [Awesome AI Motion](https://github.com/guanmo-ai/awesome-ai-motion) — Motion design, creative video, and interactive art linked to source, prompts, and production notes.
 - [Lemo-Opuscar](https://github.com/lemomo-ai/lemo-opuscar) — 43 film styles, each with a reusable style prompt and a code-made short film.
+- [AgentsUses: Motion Graphics](https://agentsuses.com/c/motion-graphics/) — Hand-checked index of motion-graphics skills for Claude Code, Codex and Cursor; each entry links and credits the original repository, gives its install path and a starter prompt, notes what an automated safety scan found, and many show credited result videos.
 
 ## Prompt library
 
