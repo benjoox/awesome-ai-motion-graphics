@@ -15,6 +15,7 @@ Original, reusable prompts for code-rendered motion graphics. These are **new te
 | Music visualizer | Visual beats and transitions tied to a supplied track | [Music visualizer](music-visualizer.md) |
 | 3D scene | A cinematic reveal of a subject in 3D | [3D scene](three-d-scene.md) |
 | Depth hierarchy | Reveal increasing detail through optical depth and focus | [Depth hierarchy](depth-hierarchy.md) |
+| Single-scene motion brief | One focal change with reusable direction and a variable scene | [Single-scene motion brief](single-scene-motion-brief.md) |
 
 ## Production prompts
 
