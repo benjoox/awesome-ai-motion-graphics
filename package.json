@@ -23,7 +23,8 @@
   },
   "pnpm": {
     "overrides": {
-      "micromark-extension-math>katex": "0.18.2"
+      "micromark-extension-math>katex": "0.18.2",
+      "markdownlint>re2js": "2.8.7"
     }
   }
 }
