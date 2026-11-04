@@ -40,6 +40,7 @@ The initial resources from [Muhammad Ayan's X post](https://x.com/socialwithaaya
 - [Persian Motion Director](https://github.com/atmirrr/persian-motion-director) — Claude skill for Persian (Farsi) motion graphics, with right-to-left typography guidance, HarfBuzz glyph-shaping tools, copy linting, and browser and Remotion examples.
 - [fframes video skill](https://github.com/dmtrKovalenko/fframes/tree/main/skills/fframes-video) — Agent instructions for planning, rendering, and checking fframes videos, including frames, contact sheets, and audio.
 - [Anatomy](https://github.com/wheresryan22/anatomy) — Claude Code skill for explanatory SVG figures with optional interaction and WebGL. [Meng To's post](https://x.com/MengTo/status/2109182449179836579) shows it applied to an animated visual explainer.
+- [blank-page](https://github.com/StewdioAI/blank-page) — Skill by Stewdio's Blake Shao for Claude Code and Codex that expands a short motion brief into a prompt with visual and motion references, numbered scene beats, and asset links.
 
 ## Prompt and reference collections
 
