@@ -55,9 +55,11 @@ The initial resources from [Muhammad Ayan's X post](https://x.com/socialwithaaya
 
 Start with the [style prompt library](prompts/README.md) for original, fill-in briefs covering showreels, kinetic typography, UI motion, product launches, explainers, data stories, collage, hand-drawn animation, music videos, and 3D scenes. Each prompt links to a creator example for visual reference.
 
+The [single-scene motion brief](prompts/single-scene-motion-brief.md) keeps production direction reusable while the focal action changes between videos.
+
 ## Published prompt examples
 
-The [published prompt examples](published-prompts/README.md) point to creators' exact motion prompts and follow-up instructions. Start with [Florence's Opus 5.5 Motion Lab](published-prompts/florence-opus-5-5-motion-lab.md), which links four visual briefs, three sound briefs, and their documented revisions. These source prompts belong to their creators; the [prompt library](prompts/README.md) contains this repository's original templates.
+The [published prompt examples](published-prompts/README.md) point to creators' motion prompts and follow-up instructions. They include [Florence's Opus 5.5 Motion Lab](published-prompts/florence-opus-5-5-motion-lab.md), with visual and sound briefs and documented revisions, and [Charlie Hills's Claude Motion brief](published-prompts/charlie-hills-claude-motion.md), which specifies a launch video's message and viewing context. These source prompts belong to their creators; the [prompt library](prompts/README.md) contains this repository's original templates.
 
 ## Production workflows
 
