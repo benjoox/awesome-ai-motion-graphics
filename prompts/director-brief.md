@@ -2,6 +2,8 @@
 
 **References:** [Donald's brief](https://x.com/donaldjewkes/status/2102801469976248500) and [Pradeep's template](https://x.com/pradeepXkapoor/status/2103177003885273599). This is an original template.
 
+Use the [storytelling checklist](../workflows/storytelling.md) to clarify the takeaway and payoff before filling in this brief.
+
 ~~~text
 Direct a [duration]-second film about [subject] for [audience]. The viewer should understand or feel [outcome]. The premise is [one sentence], ending [payoff], and tone [direction].
 

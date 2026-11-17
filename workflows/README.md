@@ -4,7 +4,7 @@ A code-rendered film needs a clear brief, assets, a deterministic renderer, coor
 
 ## From reference to delivery
 
-1. Define audience, message, duration, formats, assets, and sound.
+1. Define audience, message, duration, formats, assets, and sound. Use [storytelling for motion graphics](storytelling.md) to connect the takeaway, visual beats, and payoff.
 2. Use [reference analysis](../prompts/reference-analysis.md) to describe visual grammar. Borrow principles rather than content.
 3. Write a [director's brief](../prompts/director-brief.md) with timed shots, exact copy, continuity, and deliverables.
 4. Derive frames from time and explicit inputs. Seed procedural texture; avoid wall-clock timers and prior-frame state.
