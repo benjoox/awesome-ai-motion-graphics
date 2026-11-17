@@ -65,6 +65,7 @@ The [published prompt examples](published-prompts/README.md) point to creators' 
 
 - [Movez's motion design studio course](https://x.com/0xMovez/status/2104216919033192746) — References, direction, rendering, springs, sound, critique, and reusable instructions.
 - [Production workflow guide](workflows/README.md) — Connect reference analysis, a director's brief, rendered review, and multi-format delivery.
+- [Storytelling for motion graphics](workflows/storytelling.md) — Turn a viewer takeaway into connected visual beats, a timed animatic, and a clear payoff.
 - [Recorded footage to a short-form edit](workflows/recorded-footage.md) — Plan speech cuts, select takes, reframe the speaker, and time captions using a text cut list.
 
 ## Audio and sound design tools
